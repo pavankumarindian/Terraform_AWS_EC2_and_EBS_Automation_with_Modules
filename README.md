@@ -9,6 +9,7 @@ This repository contains Terraform configuration code for automating the provisi
 - [Usage](#usage)
 - [Storing Terraform State](#storing-terraform-state)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Modules
 
