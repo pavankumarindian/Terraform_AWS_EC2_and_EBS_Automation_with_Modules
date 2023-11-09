@@ -50,3 +50,6 @@ Ensure your AWS credentials and permissions allow Terraform to access the S3 buc
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests. We welcome any improvements or additional features you'd like to add.
+
+##  License
+This repository is licensed under the MIT License.
